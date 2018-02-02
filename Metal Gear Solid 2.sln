@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metal Gear Solid 2", "Metal Gear Solid 2.csproj", "{B899578F-EB29-D37F-A262-16278B206930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B899578F-EB29-D37F-A262-16278B206930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B899578F-EB29-D37F-A262-16278B206930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B899578F-EB29-D37F-A262-16278B206930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B899578F-EB29-D37F-A262-16278B206930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

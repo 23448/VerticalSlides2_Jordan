@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 39b2d7fa16a805642bad73e1372806e7
+timeCreated: 1517567853
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Model_14_Arm_Joints
+    100002: Model_14_CONTROLS
+    100004: Model_14_CONTROLS_ARMS
+    100006: Model_14_CONTROLS_LEGS
+    100008: Model_14_ikHandle4
+    100010: Model_14_ikHandle5
+    100012: Model_14_ikHandle6
+    100014: Model_14_ikHandle7
+    100016: Model_14_ikHandle8
+    100018: Model_14_ikHandle9
+    100020: Model_14_joint10
+    100022: Model_14_joint14
+    100024: Model_14_joint14 1
+    100026: Model_14_joint2
+    100028: Model_14_joint3
+    100030: Model_14_joint4
+    100032: Model_14_joint5
+    100034: Model_14_L_Arm_CTRL
+    100036: Model_14_L_arm_ikHandle1
+    100038: Model_14_L_Armjoint
+    100040: Model_14_L_Elbow
+    100042: Model_14_L_Elbow_Control
+    100044: Model_14_L_Foot
+    100046: Model_14_L_Foot_Control
+    100048: Model_14_L_Foot_Control 1
+    100050: Model_14_L_Foot_E
+    100052: Model_14_L_Foot_M
+    100054: Model_14_L_Forearm
+    100056: Model_14_L_Hand
+    100058: Model_14_L_Hand_Control
+    100060: Model_14_L_Hand_Duim_End
+    100062: Model_14_L_Hand_Duim_up
+    100064: Model_14_L_Hand_MidFinger_1
+    100066: Model_14_L_Hand_MidFinger_2
+    100068: Model_14_L_Hand_MidFinger_3
+    100070: Model_14_L_Hand_PinkyFinger_1
+    100072: Model_14_L_Hand_PinkyFinger_2
+    100074: Model_14_L_Hand_PinkyFinger_3
+    100076: Model_14_L_Hand_RingFinger_1
+    100078: Model_14_L_Hand_RingFinger_2
+    100080: Model_14_L_Hand_RingFinger_3
+    100082: Model_14_L_Hand_WijsFinger_1
+    100084: Model_14_L_Hand_WijsFinger_2
+    100086: Model_14_L_Hand_WijsFinger_3
+    100088: Model_14_L_Hip
+    100090: Model_14_L_Knee
+    100092: Model_14_L_Knee_Control
+    100094: Model_14_L_Knee_Control 1
+    100096: Model_14_L_Legs_CTRL
+    100098: Model_14_L_Shoulder
+    100100: Model_14_L_Shoulder_Control
+    100102: Model_14_MAIN
+    100104: Model_14_nurbsCircle1
+    100106: Model_14_nurbsCircle2
+    100108: Model_14_pCylinder10
+    100110: Model_14_Pipe
+    100112: Model_14_Pistol
+    100114: Model_14_R_arm_CTRL
+    100116: Model_14_R_Arm_ikHandle2
+    100118: Model_14_R_Armjoint
+    100120: Model_14_R_Elbow
+    100122: Model_14_R_Elbow_Control
+    100124: Model_14_R_Foot
+    100126: Model_14_R_Foot_E
+    100128: Model_14_R_Foot_M
+    100130: Model_14_R_Forearm
+    100132: Model_14_R_Hand
+    100134: Model_14_R_Hand_Control
+    100136: Model_14_R_Hand_Duim_End
+    100138: Model_14_R_Hand_Duim_up
+    100140: Model_14_R_Hand_MidFinger_1
+    100142: Model_14_R_Hand_MidFinger_2
+    100144: Model_14_R_Hand_MidFinger_3
+    100146: Model_14_R_Hand_PinkyFinger_1
+    100148: Model_14_R_Hand_PinkyFinger_2
+    100150: Model_14_R_Hand_PinkyFinger_3
+    100152: Model_14_R_Hand_RingFinger_1
+    100154: Model_14_R_Hand_RingFinger_2
+    100156: Model_14_R_Hand_RingFinger_3
+    100158: Model_14_R_Hand_WijsFinger_1
+    100160: Model_14_R_Hand_WijsFinger_2
+    100162: Model_14_R_Hand_WijsFinger_3
+    100164: Model_14_R_Hip
+    100166: Model_14_R_Knee
+    100168: Model_14_R_Leg_CTRL
+    100170: Model_14_R_Shoulder
+    100172: Model_14_R_Shoulder_Control
+    100174: Model_14_Silencer
+    100176: Model_14_Skelet
+    100178: //RootNode
+    400000: Model_14_Arm_Joints
+    400002: Model_14_CONTROLS
+    400004: Model_14_CONTROLS_ARMS
+    400006: Model_14_CONTROLS_LEGS
+    400008: Model_14_ikHandle4
+    400010: Model_14_ikHandle5
+    400012: Model_14_ikHandle6
+    400014: Model_14_ikHandle7
+    400016: Model_14_ikHandle8
+    400018: Model_14_ikHandle9
+    400020: Model_14_joint10
+    400022: Model_14_joint14
+    400024: Model_14_joint14 1
+    400026: Model_14_joint2
+    400028: Model_14_joint3
+    400030: Model_14_joint4
+    400032: Model_14_joint5
+    400034: Model_14_L_Arm_CTRL
+    400036: Model_14_L_arm_ikHandle1
+    400038: Model_14_L_Armjoint
+    400040: Model_14_L_Elbow
+    400042: Model_14_L_Elbow_Control
+    400044: Model_14_L_Foot
+    400046: Model_14_L_Foot_Control
+    400048: Model_14_L_Foot_Control 1
+    400050: Model_14_L_Foot_E
+    400052: Model_14_L_Foot_M
+    400054: Model_14_L_Forearm
+    400056: Model_14_L_Hand
+    400058: Model_14_L_Hand_Control
+    400060: Model_14_L_Hand_Duim_End
+    400062: Model_14_L_Hand_Duim_up
+    400064: Model_14_L_Hand_MidFinger_1
+    400066: Model_14_L_Hand_MidFinger_2
+    400068: Model_14_L_Hand_MidFinger_3
+    400070: Model_14_L_Hand_PinkyFinger_1
+    400072: Model_14_L_Hand_PinkyFinger_2
+    400074: Model_14_L_Hand_PinkyFinger_3
+    400076: Model_14_L_Hand_RingFinger_1
+    400078: Model_14_L_Hand_RingFinger_2
+    400080: Model_14_L_Hand_RingFinger_3
+    400082: Model_14_L_Hand_WijsFinger_1
+    400084: Model_14_L_Hand_WijsFinger_2
+    400086: Model_14_L_Hand_WijsFinger_3
+    400088: Model_14_L_Hip
+    400090: Model_14_L_Knee
+    400092: Model_14_L_Knee_Control
+    400094: Model_14_L_Knee_Control 1
+    400096: Model_14_L_Legs_CTRL
+    400098: Model_14_L_Shoulder
+    400100: Model_14_L_Shoulder_Control
+    400102: Model_14_MAIN
+    400104: Model_14_nurbsCircle1
+    400106: Model_14_nurbsCircle2
+    400108: Model_14_pCylinder10
+    400110: Model_14_Pipe
+    400112: Model_14_Pistol
+    400114: Model_14_R_arm_CTRL
+    400116: Model_14_R_Arm_ikHandle2
+    400118: Model_14_R_Armjoint
+    400120: Model_14_R_Elbow
+    400122: Model_14_R_Elbow_Control
+    400124: Model_14_R_Foot
+    400126: Model_14_R_Foot_E
+    400128: Model_14_R_Foot_M
+    400130: Model_14_R_Forearm
+    400132: Model_14_R_Hand
+    400134: Model_14_R_Hand_Control
+    400136: Model_14_R_Hand_Duim_End
+    400138: Model_14_R_Hand_Duim_up
+    400140: Model_14_R_Hand_MidFinger_1
+    400142: Model_14_R_Hand_MidFinger_2
+    400144: Model_14_R_Hand_MidFinger_3
+    400146: Model_14_R_Hand_PinkyFinger_1
+    400148: Model_14_R_Hand_PinkyFinger_2
+    400150: Model_14_R_Hand_PinkyFinger_3
+    400152: Model_14_R_Hand_RingFinger_1
+    400154: Model_14_R_Hand_RingFinger_2
+    400156: Model_14_R_Hand_RingFinger_3
+    400158: Model_14_R_Hand_WijsFinger_1
+    400160: Model_14_R_Hand_WijsFinger_2
+    400162: Model_14_R_Hand_WijsFinger_3
+    400164: Model_14_R_Hip
+    400166: Model_14_R_Knee
+    400168: Model_14_R_Leg_CTRL
+    400170: Model_14_R_Shoulder
+    400172: Model_14_R_Shoulder_Control
+    400174: Model_14_Silencer
+    400176: Model_14_Skelet
+    400178: //RootNode
+    2300000: Model_14_MAIN
+    2300002: Model_14_Pipe
+    2300004: Model_14_Silencer
+    3300000: Model_14_MAIN
+    3300002: Model_14_Pipe
+    3300004: Model_14_Silencer
+    4300000: Model_14_MAIN
+    4300002: Model_14_Silencer
+    4300004: Model_14_Pipe
+    4300006: Model_14_pCylinder10
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Model_14_pCylinder10
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
